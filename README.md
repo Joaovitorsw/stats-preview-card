@@ -42,7 +42,7 @@
 
 <div align="center">
 
-Deploy do front-end efetuado no [Netlify](https://www.netlify.com/) para visualizar: [Clique Aqui](https://joaovitorsw-stats-preview-card.netlify.app/)
+Deploy do front-end efetuado no [Netlify](https://www.netlify.com/) para visualizar: [Clique Aqui](https://stats-preview-card-joaovitorsw.netlify.app/)
 
 |                             :computer:Desktop                             |                             :iphone: Mobile                              |
 | :-----------------------------------------------------------------------: | :----------------------------------------------------------------------: |
@@ -52,7 +52,7 @@ Deploy do front-end efetuado no [Netlify](https://www.netlify.com/) para visuali
   
 ---
 
-## :information_source: _Sobre_
+## :information*source: \_Sobre*
 
 <div align="center">
 
@@ -62,7 +62,7 @@ Minha versão da aplicação proposta pelo [Frontend Mentor](https://www.fronten
 
 </div>
 
-## :hammer_and_wrench: _Tecnologias_
+## :hammer*and_wrench: \_Tecnologias*
 
 <div align="center">
 
@@ -71,7 +71,6 @@ Minha versão da aplicação proposta pelo [Frontend Mentor](https://www.fronten
 
 | [HTML 5](https://www.w3schools.com/html/) |
 | [CSS3](https://www.w3schools.com/css/) |
-
 
 </div>
 
@@ -83,16 +82,14 @@ Minha versão da aplicação proposta pelo [Frontend Mentor](https://www.fronten
 
 | :page_facing_up: |
 | :--------------: |
-|    Flexbox       |
-|    Position      |
-|    Mobile First  |
+|     Flexbox      |
+|     Position     |
+|   Mobile First   |
 |    MediaQuery    |
 
 </div>
 
 ---
-
-
 
 ## :boy: _Autor_
 
@@ -114,7 +111,7 @@ Desenvolvido com ❤️ por João Vitor Pereira dos Santos 👋🏽 Meus Contato
 
 ---
 
-## :balance_scale: _Licença_
+## :balance*scale: \_Licença*
 
 <div align="center">
 
