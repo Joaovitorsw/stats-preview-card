@@ -1,0 +1,126 @@
+:root {
+  --primary-color: hsl(233, 47%, 7%);
+  --primary-color-light: hsl(244, 38%, 16%);
+  --secondary-color: hsl(277, 64%, 61%);
+  --neutral-color: hsla(0, 0%, 100%, 0.75);
+  --neutral-color-light: hsl(0, 0%, 100%);
+  --neutral-color-dark: hsla(0, 0%, 100%, 0.6);
+}
+
+body {
+  padding: 40px;
+  background-color: var(--primary-color);
+}
+.main-content {
+  display: flex;
+  flex-direction: column;
+  border-radius: 0px 0px 8px 8px;
+  background-color: var(--primary-color-light);
+}
+
+.img-content {
+  background-blend-mode: multiply;
+  background: url(images/image-header-mobile.jpg) var(--secondary-color);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 180px;
+  border-radius: 8px 8px 0px 0px;
+}
+.text-content {
+  text-align: center;
+  padding: 20px;
+  color: var(--neutral-color-light);
+}
+
+.title {
+  font-family: "Lexend Deca", sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+  max-width: 200px;
+  margin: 0 auto;
+  color: var(--neutral-color-light);
+  margin-bottom: 20px;
+}
+.title-color {
+  color: var(--secondary-color);
+}
+.paragraph {
+  font-family: "Inter", sans-serif;
+  font-size: 12px;
+  line-height: 15px;
+  color: var(--neutral-color);
+  max-width: 210px;
+  margin: 0 auto;
+  margin-bottom: 30px;
+}
+.mini-card {
+  display: flex;
+  flex-direction: column;
+}
+.number {
+  font-family: "Lexend Deca", sans-serif;
+  font-size: 20px;
+  text-transform: uppercase;
+  line-height: 20px;
+  margin-bottom: 15px;
+}
+.number:first-child {
+  text-transform: lowercase;
+}
+.text {
+  text-transform: uppercase;
+  font-weight: 400;
+  color: var(--neutral-color-dark);
+  font-size: 10px;
+}
+
+@media screen and (min-width: 900px) {
+  .main-content {
+    flex-direction: row-reverse;
+    border-radius: 8px;
+    justify-content: space-between;
+    width: 1000px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  .img-content {
+    background-blend-mode: multiply;
+    background: url(images/image-header-desktop.jpg) var(--secondary-color);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    width: 50%;
+    height: 404px;
+    border-radius: 0px 8px 8px 0px;
+  }
+  .text-content {
+    text-align: start;
+    margin-left: 60px;
+    padding: 0px;
+  }
+  .title {
+    margin: 0;
+    margin-top: 60px;
+    margin-bottom: 30px;
+    font-size: 25px;
+    padding: 0;
+    max-width: 300px;
+  }
+  .paragraph {
+    max-width: 300px;
+    font-size: 13px;
+    line-height: 20px;
+    margin-bottom: 70px;
+  }
+  .mini-card {
+    flex-direction: row;
+  }
+  .number:first-child {
+    padding-left: 0;
+  }
+  .number {
+    padding: 20px;
+  }
+}
