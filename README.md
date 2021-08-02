@@ -52,7 +52,7 @@ Deploy do front-end efetuado no [Netlify](https://www.netlify.com/) para visuali
   
 ---
 
-## :information*source: \_Sobre*
+## :information_source: _Sobre_
 
 <div align="center">
 
@@ -62,7 +62,7 @@ Minha versão da aplicação proposta pelo [Frontend Mentor](https://www.fronten
 
 </div>
 
-## :hammer*and_wrench: \_Tecnologias*
+## :hammer_and_wrench: _Tecnologias_
 
 <div align="center">
 
@@ -111,7 +111,7 @@ Desenvolvido com ❤️ por João Vitor Pereira dos Santos 👋🏽 Meus Contato
 
 ---
 
-## :balance*scale: \_Licença*
+## :balance_scale: _Licença_
 
 <div align="center">
 
