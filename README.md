@@ -11,7 +11,7 @@
 </div>
 
 <p align="center">
-  <img alt="front-end-mentor-newbie" src=".github/front-end-mentor-newbie" width="350px" height="180px"/>
+  <img alt="front-end-mentor-newbie" src=".github/front-end-mentor-newbie.png" width="350px" height="180px"/>
 </p>
 
 <p align="center"> 
