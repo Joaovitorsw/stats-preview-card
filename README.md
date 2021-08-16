@@ -7,12 +7,11 @@
 <div align="right">
   
   [![Portuguese](https://www.countryflags.io/br/flat/32.png)](README.md)
-  [![English](https://www.countryflags.io/us/flat/32.png)](README-US.md)
   
 </div>
 
 <p align="center">
-  <img alt="project-logo 11" src=".github/project-logo.png" width="350px" height="180px"/>
+  <img alt="front-end-mentor-newbie" src=".github/front-end-mentor-newbie" width="350px" height="180px"/>
 </p>
 
 <p align="center"> 
@@ -22,8 +21,8 @@
     <img alt="Developed by João Vitor" src="https://img.shields.io/badge/Developer-João_Vitor-%3498db?color=3498db&style=for-the-badge&label=Desenvolvedor">
   </a>  
   <img alt="Project License" src="https://img.shields.io/apm/l/vim-mode?style=for-the-badge&label=licen%C3%A7a"/>   
-   <img alt="Project Status" src="https://img.shields.io/badge/Em Progresso-%3498db?color=yellow&style=for-the-badge&label=Status">  
-  
+   <img alt="Project Status" src="https://camo.githubusercontent.com/e1242aef6552b4e9b2d6764e66eb55f29758cb1e6d332b74efa89b3144339b25/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636f6e636c75c3ad646f2d253334393864623f636f6c6f723d677265656e267374796c653d666f722d7468652d6261646765266c6162656c3d537461747573">  
+    
 </p>
 
 <p align="center">
@@ -31,7 +30,6 @@
  <a href="#information_source-sobre">Sobre</a> •
  <a href="#hammer_and_wrench-tecnologias">Tecnologias</a> • 
  <a href="#brain-conceitos-aplicados">Conceitos</a> •
- <a href="#sparkles-funcionalidades">Funcionalidades</a> •
  <a href="#boy-autor">Autor</a> •
  <a href="#balance_scale-licença">Licença</a>
 </p>
@@ -80,12 +78,18 @@ Minha versão da aplicação proposta pelo [Frontend Mentor](https://www.fronten
 
 <div align="center">
 
-| :page_facing_up: |
-| :--------------: |
-|     Flexbox      |
-|     Position     |
-|   Mobile First   |
-|    MediaQuery    |
+|  :page_facing_up:  |
+| :----------------: |
+|    Mobile First    |
+|  Background Image  |
+|     HTML Class     |
+|     CSS Class      |
+|  Pseudo Selectors  |
+|   CSS Box Model    |
+|  Size Properties   |
+|      Flexbox       |
+|     MediaQuery     |
+
 
 </div>
 
