@@ -78,18 +78,18 @@ Minha versão da aplicação proposta pelo [Frontend Mentor](https://www.fronten
 
 <div align="center">
 
-|  :page_facing_up:  |
-| :----------------: |
-|    Mobile First    |
-|  Background Image  |
-|     HTML Class     |
-|     CSS Class      |
-|  Pseudo Selectors  |
-|   CSS Box Model    |
-|  Size Properties   |
-|      Flexbox       |
-|     MediaQuery     |
-
+| :page_facing_up: |
+| :--------------: |
+|   Mobile First   |
+|    HTML Class    |
+|    CSS Class     |
+| Background Image |
+| Pseudo Selectors |
+|  CSS Box Model   |
+| Size Properties  |
+|     Flexbox      |
+|    MediaQuery    |
+|   Atomic Comit   |
 
 </div>
 
