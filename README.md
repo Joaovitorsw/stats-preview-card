@@ -5,7 +5,7 @@
 </div>
 
 <div align="right">
- [![Portuguese](https://cdn-icons-png.flaticon.com/32/3022/3022546.png)](README.md) 
+ [![Portuguese](https://cdn-icons-png.flaticon.com/32/3022/3022546.png)](README.md)]
 </div>
 
 <p align="center">
@@ -38,7 +38,7 @@
 
 <div align="center">
 
-Deploy do front-end efetuado no [Netlify](https://www.netlify.com/) para visualizar: [Clique Aqui](https://stats-preview-card-joaovitorsw.netlify.app/)
+Deploy do front-end efetuado no [Netlify](https://www.netlify.com/) para visualizar: [Clique Aqui](https://joaovitorsw-stats-preview-card.netlify.app)
 
 |                             :computer:Desktop                             |                             :iphone: Mobile                              |
 | :-----------------------------------------------------------------------: | :----------------------------------------------------------------------: |
